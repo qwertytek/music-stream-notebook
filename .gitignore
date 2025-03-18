@@ -1,1 +1,4 @@
 venv
+
+# Jupyter-Notebook-Files
+.ipynb_checkpoints
